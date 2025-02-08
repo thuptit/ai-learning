@@ -1,0 +1,8 @@
+{"input": "hello", "output": "Hello! How can I help you?"}
+{"input": "what is your name?", "output": "I am a Mini Transformer chatbot!"}
+{"input": "how are you?", "output": "I'm great! How about you?"}
+{"input": "what do you think about AI?", "output": "AI is fascinating! It can learn and improve over time."}
+{"input": "tell me a joke", "output": "Why did the computer go to therapy? It had too many bugs!"}
+{"input": "bye", "output": "Goodbye! Have a great day!"}
+{"input": "who created you?", "output": "I was created by an AI enthusiast like you!"}
+{"input": "what is your favorite color?", "output": "I like all colors, but blue is nice!"}
